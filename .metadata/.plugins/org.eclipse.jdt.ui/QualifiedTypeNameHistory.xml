@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.naveed.chainofresponsibilityatmexample.ChainOfRespATMExample"/>
+    <fullyQualifiedTypeName name="com.naveed.chainofresponsibilityatmexample.DispenceChain"/>
+    <fullyQualifiedTypeName name="com.naveed.chainofresponsibilityatmexample.Notes2000Rack"/>
+    <fullyQualifiedTypeName name="com.naveed.chainofresponsibilityatmexample.Notes500Rack"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.naveed.chainofresponsibilityatmexample.Currency"/>
 </qualifiedTypeNameHistroy>
